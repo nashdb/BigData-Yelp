@@ -1,4 +1,4 @@
-##By Danielle Nash, Michelle Kim, Jonathan Ho, Ellen Kim
+##Written by Danielle Nash, Michelle Kim, Jonathan Ho, Ellen Kim
 ## May 12, 2016
 
 import numpy as np
